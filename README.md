@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**villano14/villano14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola, soy salomon! 👋
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mí
+Soy un estudiante apasionado por el mundo del desarrollo. Me encanta aprender y compartir conocimientos sobre tecnología y contribuir a proyectos de código abierto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologías y herramientas
+- Lenguajes: `Python`, `JavaScript`, `PHP`
+- Frameworks: `Laravel`, `React`, `TensorFlow`
+- Herramientas: `Git`, `Docker`, `VS Code`
+
+
+
+
